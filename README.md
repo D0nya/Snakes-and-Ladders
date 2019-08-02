@@ -1,4 +1,3 @@
 # Snakes-and-Ladders
-Ordinary snakes and ladders game made with C# and WPF.
-Just press "ROLL" to begin a turn.
-List box at the bottom-right contains last truns records.
+Ordinary snakes and ladders game made with C#.
+CodeWars link: https://www.codewars.com/kata/587136ba2eefcb92a9000027
